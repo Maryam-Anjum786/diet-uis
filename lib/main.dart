@@ -1,5 +1,3 @@
-import 'package:abc/bottomNavigationBar.dart';
-import 'package:abc/home.dart';
 import 'package:abc/motion_navbar.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

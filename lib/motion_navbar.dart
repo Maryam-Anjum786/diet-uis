@@ -4,10 +4,8 @@ import 'package:get/get.dart';
 import 'package:motion_tab_bar_v2/motion-tab-bar.dart';
 
 // optional, only if using provided badge style
-import 'package:motion_tab_bar_v2/motion-badge.widget.dart';
 
 // optional, only if using "MotionTabBarController" to programmatically change the tab
-import 'package:motion_tab_bar_v2/motion-tab-controller.dart';
 
 import 'Favorites.dart';
 
